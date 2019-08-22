@@ -1,0 +1,68 @@
+.navbar-brand{
+	font-size: 1.6rem;
+}
+#row1,#row2{
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+.wrap{
+	background: linear-gradient(45deg, rgb(65, 202, 243), rgb(38, 228, 176));
+    padding: 1rem;
+}
+.container h1{
+	text-align: center;
+	margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: white;
+}
+.card-img-top{
+	padding: 1rem 1rem;
+}
+.card-body{
+	text-align: center;
+}
+.card-title{
+	color: rgb(65, 150, 500);
+}
+.info{
+	max-width: 100%;
+}
+footer{
+	background: #eee;
+}
+.social-links ul{
+    display: inline-flex;
+    padding-left: 0px;
+}
+ul{
+	list-style: none;
+}
+li{
+	padding-right: 1rem;
+}
+span{
+	padding-left: 1rem;
+}
+.info{
+	background: #333;
+}
+.bg-danger .card-img-top{
+	padding: 0rem 0rem;
+}.caption{
+	color: #333;
+}
+h5{
+	color: #333;
+}
+.fname{
+	padding-bottom: .5rem;
+}
+.addr h3{
+	color: #0077ff;
+	padding-left: 2.5rem;
+}
+.detail li{
+	padding-bottom: 1rem;
+}
